@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>Ratatouille</h1>
-    <img src="../images/ratatouille.jpg" alt="A beatiful and intricate dish made by star chef Remy" style="width: 300px;height: 300px;"/>
+    <img src="../../../Downloads/ratatouille.jpg" alt="A beatiful and intricate dish made by star chef Remy" style="width: 300px;height: 300px;"/>
 
     <h3>Description</h2>
     <p>
@@ -17,8 +17,17 @@
         and is sometimes referred to as ratatouille niçoise (French: [niswaz]).[1] Recipes and cooking times differ widely, but common ingredients include tomato, garlic, onion, courgette (zucchini), aubergine (eggplant, brinjal), capsicum (bell pepper), and some combination of leafy green herbs common to the region.
     </p>
 
-    <h2>Ingredients</h2> 
+    
     <p>For 8 servings</p>
+
+    <div class="sqs-block-content">
+        <h2 style="margin-left:40px;white-space:pre-wrap;">Ingredients</h2> 
+        <p class style="white-space:pre-wrap;">
+            <span style="text-decoration:underline">
+                <strong>Ratatouille Ingredients:</strong>
+            </span>
+        </p>
+    </div>
     <ul>
         <h3>Veggies</h3>
         <ul>
